@@ -1,17 +1,31 @@
-# Personalized_Intelligent_Fitness_Recommender
+# Privacy-Preserving Personalized Fitness Recommender System $(P^{3}FitRec)$: A Multi-level Deep Learning Approach
 
-## workout distance prediction model
-* Script of distance prediction
-* Trained Model
-## workout Speed&HeartRate model
-* Script of speed & Heart rate prediction
-* Trained Model
-## entity embedding
-* Script of entity embedding training
-* Trained entity embeddings
-## data scalers
-* Data scaler objects
-## preprocessing 
-* Scripts of data preprocessing
-## datasets
-* Datasets used in preprocessing and training (provided as google drive links)
+## Workout distance prediction model
+
+Script of distance prediction
+
+Trained Model
+
+## Workout Speed&HeartRate model
+
+Script of speed & Heart rate prediction
+
+Trained Model
+
+## Entity embedding
+
+Script of entity embedding training
+
+Trained entity embeddings
+
+## Data scalers
+
+Data scaler objects
+
+## Preprocessing
+
+Scripts of data preprocessing
+
+## Datasets
+
+Datasets used in preprocessing and training (provided as google drive links)

@@ -1,4 +1,4 @@
-# Privacy-Preserving Personalized Fitness Recommender System $(P^{3}FitRec)$: A Multi-level Deep Learning Approach
+# Privacy-Preserving Personalized Fitness Recommender System (P<sup>3</sup>FitRec): A Multi-level Deep Learning Approach
 
 ## Workout distance prediction model
 
